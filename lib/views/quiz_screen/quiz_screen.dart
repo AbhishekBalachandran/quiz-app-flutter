@@ -117,7 +117,6 @@ class _QuizScreenState extends State<QuizScreen> {
                                       ? Colors.green
                                       : Colors.red
                                   : Colors.transparent
-                              // Changed the comparison
                               ),
                           child: Column(
                             mainAxisAlignment: MainAxisAlignment.center,
